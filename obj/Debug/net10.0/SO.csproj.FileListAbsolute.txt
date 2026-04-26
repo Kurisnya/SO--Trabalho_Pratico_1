@@ -1,0 +1,14 @@
+/home/kuris/Área de trabalho/clear/SO/bin/Debug/net10.0/SO
+/home/kuris/Área de trabalho/clear/SO/bin/Debug/net10.0/SO.deps.json
+/home/kuris/Área de trabalho/clear/SO/bin/Debug/net10.0/SO.runtimeconfig.json
+/home/kuris/Área de trabalho/clear/SO/bin/Debug/net10.0/SO.dll
+/home/kuris/Área de trabalho/clear/SO/bin/Debug/net10.0/SO.pdb
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.AssemblyInfoInputs.cache
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.AssemblyInfo.cs
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.csproj.CoreCompileInputs.cache
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.dll
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/refint/SO.dll
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.pdb
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/SO.genruntimeconfig.cache
+/home/kuris/Área de trabalho/clear/SO/obj/Debug/net10.0/ref/SO.dll
