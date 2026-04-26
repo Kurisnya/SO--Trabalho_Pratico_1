@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kuris/Área de trabalho/clear/SO/SO.csproj": {}
+    "/home/kuris/Área de trabalho/clear/SO - entrega/SO--Trabalho_Pratico_1/SO.csproj": {}
   },
   "projects": {
-    "/home/kuris/Área de trabalho/clear/SO/SO.csproj": {
+    "/home/kuris/Área de trabalho/clear/SO - entrega/SO--Trabalho_Pratico_1/SO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kuris/Área de trabalho/clear/SO/SO.csproj",
+        "projectUniqueName": "/home/kuris/Área de trabalho/clear/SO - entrega/SO--Trabalho_Pratico_1/SO.csproj",
         "projectName": "SO",
-        "projectPath": "/home/kuris/Área de trabalho/clear/SO/SO.csproj",
+        "projectPath": "/home/kuris/Área de trabalho/clear/SO - entrega/SO--Trabalho_Pratico_1/SO.csproj",
         "packagesPath": "/home/kuris/.nuget/packages/",
-        "outputPath": "/home/kuris/Área de trabalho/clear/SO/obj/",
+        "outputPath": "/home/kuris/Área de trabalho/clear/SO - entrega/SO--Trabalho_Pratico_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kuris/.nuget/NuGet/NuGet.Config"
