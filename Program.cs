@@ -27,11 +27,11 @@ public class AlgoritmoBanqueiro
         int[,] ints =
         {
             //VALORES DAS CONTAS DOS USUÁRIOS
-            {7,4,2},
-            {5,6,1},
-            {4,4,4},
-            {7,0,2},
-            {6,4,9}
+            {7,4,2}, //0
+            {5,6,1}, //1
+            {4,4,4}, //2
+            {7,0,2}, //3
+            {6,4,9}  //4
             //-
         };
         this.maximum = ints;
