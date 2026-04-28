@@ -41,7 +41,7 @@ public class AlgoritmoBanqueiro
     //-
     public bool EhEstadoSeguro()
     {
-        // 1. Criamos cópias para não corromper os dados reais durante a simulação
+        // 1.cópias para não corromper os dados reais durante a simulação
         int[] work = (int[])available.Clone();
         bool[] finish = new bool[NUMBER_OF_CUSTOMERS]; // Todos começam como false
 
@@ -56,7 +56,7 @@ public class AlgoritmoBanqueiro
                 if (!finish[i])
                 {
                     bool podeAtender = true;
-                    // Verifica se o que ele precisa (Need) é menor ou igual ao que temos no cofre (Work)
+                    
                     for (int j = 0; j < NUMBER_OF_RESOURCES; j++)
                     {
                         if (need[i, j] > work[j])
@@ -66,7 +66,6 @@ public class AlgoritmoBanqueiro
                         }
                     }
 
-                    // Se puder atender esse cliente, simulamos que ele termina e devolve TUDO
                     if (podeAtender)
                     {
                         for (int j = 0; j < NUMBER_OF_RESOURCES; j++)
